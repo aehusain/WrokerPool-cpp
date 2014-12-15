@@ -1,0 +1,8 @@
+compilation
+------------
+$ make
+
+Tested on '3.5.0-54-generic #81~precise1-Ubuntu'.
+Dependancy includes:
+1. C++ 11 support.
+2. Boost Thread library support.
